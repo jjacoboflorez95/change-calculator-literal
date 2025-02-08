@@ -64,6 +64,12 @@ The **Change Calculator** is a web-based application designed to calculate the o
 - 💵 **Dollar Support**: Extend functionality to calculate amounts over 99 cents.
 - 📊 **History Feature**: Display a log of previous calculations.
 
+## 🎭 Screenshots  
+
+| Change Calculator Literal |  
+|--------------|  
+| ![Change Calculator Literal](imgs/github/change-calculator-literal.png) |  
+
 ## 📜 License
 
 This project was developed for educational purposes as part of a **college assignment**.
